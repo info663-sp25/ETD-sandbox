@@ -12,4 +12,4 @@ identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,True,,,encodingFormat
 language,Language,True,,DCTERMS.language,
-rightsstatement,True,,,DCTERMS.rights,license
+rightsstatement,,True,,DCTERMS.rights,license
