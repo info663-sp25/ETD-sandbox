@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/9/98/Ar_Cielan_Glyph.png" %} 
+{% include feature/jumbotron.html objectid="https://drive.google.com/file/d/10e_WhFEELoS19Kw-8xX3gGBjFmv2LdPp/view?usp=sharing" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
